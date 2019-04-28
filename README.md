@@ -1,6 +1,10 @@
 # curl-every-10seconds
 
-[![](https://img.shields.io/docker/cloud/build/hermanho/curl-every-10seconds.svg)](https://hub.docker.com/r/hermanho/curl-every-10seconds/builds)
+[![](https://img.shields.io/docker/cloud/build/hermanho/curl-every-10seconds.svg?style=flat-square)](https://hub.docker.com/r/hermanho/curl-every-10seconds/builds)
+![MicroBadger Layers](https://img.shields.io/microbadger/layers/layers/curl-every-10seconds.svg?style=flat-square)
+![MicroBadger Size](https://img.shields.io/microbadger/image-size/image-size/curl-every-10seconds.svg?style=flat-square)
+
+
 
 Alpine-based image with just curl and run every 10 seconds within 1 minute
 
